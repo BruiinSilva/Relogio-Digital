@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=MuseoModerno:wght@100&display=swap');
+
+body{
+  background: #111111;
+  color: #7e0e06;
+  
+}
+h2 {
+    color: #127a17;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+  
+}
+.clock{
+  height: 100%;
+  padding-top:250px;
+  text-align:center;
+  font-size:70px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
