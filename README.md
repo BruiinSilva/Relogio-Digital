@@ -1,2 +1,9 @@
-# Relogio-Digital
-Relógio Digital  ## 💻 Tecnologias - HTML - CSS - JavaScript
+# Relogio-Digital 
+
+
+ ## 💻 Tecnologias usadas
+ 
+ - HTML 
+ - CSS 
+ - JavaScript
+
